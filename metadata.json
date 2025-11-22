@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Nova - AI Voice Agent",
+  "description": "A real-time multimodal voice agent powered by Gemini Live API using a futuristic avatar interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
